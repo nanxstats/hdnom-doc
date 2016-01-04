@@ -1,5 +1,5 @@
 
-# hdnom.io Data Privacy Policy
+# Data Privacy Policy for hdnom.io
 
   1. We simply do not store any data uploaded to hdnom.io.
   2. Please make sure that you have the right to use your data in this way.
