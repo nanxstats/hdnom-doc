@@ -2,6 +2,6 @@
 
 ## Table of Contents
 
-  * [Data Privacy Policy](privacy.md)
-  * [Upload Data Format](upload.md)
-  * [Citation](citation.md)
+- [Data Privacy Policy](privacy.md)
+- [Upload Data Format](upload.md)
+- [Citation](citation.md)
